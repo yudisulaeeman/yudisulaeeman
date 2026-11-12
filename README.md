@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yudisulaeeman
-- 👀 I’m interested in IoT and Mobile Programming
+- 👀 I’m interested in IoT and my main role was IT BA
 - 🌱 I’m currently learning IoT
 
 <!---
